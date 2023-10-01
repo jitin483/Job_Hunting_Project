@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+.coloring
+{
+	color:white;
+}
+
+img
+{
+	height:800px;
+	width:750px;
+	float:right;
+}
+#back
+{
+	background-image: url('register.jpg');
+	  background-repeat: no-repeat;
+	background-size: cover;
+}
+.form-label
+{
+	color:white;
+}
+#coloring
+{
+	color:white;
+}
+#tab{
+	width:600px;
+	height:200px;
+	margin-left:auto;
+	margin-right:auto;
+	
+	margin-top:50px;
+}
+.tab tr,th,td{
+	border:2px double black;
+	text-align:center;
+	font-size:17px;
+}
+
+#logout
+{
+	margin-top:10px;
+	margin-left:10px;
+}
